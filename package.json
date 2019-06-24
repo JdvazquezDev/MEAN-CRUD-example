@@ -1,0 +1,28 @@
+{
+    "name": "MEAN-CRUD-example",
+    "version": "1.0.0",
+    "description": "MEAN-CRUD-example",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon server/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JdvazquezDev/MEAN-CRUD-example.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JdvazquezDev/MEAN-CRUD-example/issues"
+    },
+    "homepage": "https://github.com/JdvazquezDev/MEAN-CRUD-example#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.6.0",
+        "morgan": "^1.9.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    }
+}
